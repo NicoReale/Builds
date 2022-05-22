@@ -1,4 +1,4 @@
-# DISCLAIMER: EL ARTE NO ES MIO!
+# DISCLAIMER: EL ARTE NO ES MIO! (al menos no todo)
 
 uso assets de la Unity Assets Store
 
