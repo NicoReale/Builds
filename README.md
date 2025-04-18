@@ -1,9 +1,11 @@
-# DISCLAIMER: EL ARTE NO ES MIO! (al menos no todo)
+# DISCLAIMER: NOT ALL ART IS MINE!
 
-uso assets de la Unity Assets Store
+Unity assets store assets used
 
-Link a LD50 ultima version: [Link](https://nicoreale.github.io/Builds/Unity/LD50/Alpha%20v3/)
+Link LD50 game: [Link](https://nicoreale.github.io/Builds/Unity/LD50/Alpha%20v3/)
 
-Link Ace Tank (pensado para mobile) ultima version: [Link](https://nicoreale.github.io/Builds/Unity/Ace%20Tank/) 
+Link Ace Tank (thought out for mobile): [Link](https://nicoreale.github.io/Builds/Unity/Ace%20Tank/) 
 
-Link Kennys Jammin (Creado para Kenneys' Jam 2024): [Link](https://nicoreale.github.io/Builds/Jams/Kennys%20Jammin/)
+Link Kennys Jammin (Made for Kenneys' Jam 2024): [Link](https://nicoreale.github.io/Builds/Jams/Kennys%20Jammin/)
+
+Link to a demo made by friends and me: [Link](https://ikal-team.itch.io/)
