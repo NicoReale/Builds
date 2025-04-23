@@ -8,4 +8,4 @@ Link Ace Tank (thought out for mobile): [Link](https://nicoreale.github.io/Build
 
 Link Kennys Jammin (Made for Kenneys' Jam 2024): [Link](https://nicoreale.github.io/Builds/Jams/Kennys%20Jammin/)
 
-Link to a demo made by friends and me: [Link](https://ikal-team.itch.io/)
+Link to a demo game, made for university, by friends and me: [Link](https://ikal-team.itch.io/)
